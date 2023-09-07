@@ -1121,3 +1121,5 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.09.07-17.40.47:573][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.09.07-17.40.47:650][  0]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
 [2023.09.07-17.40.47:655][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.07-17.42.40:149][737]LogDerivedDataCache: C:/Users/mirov/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 752 files in 1143 folders with total size 12 MiB.
+[2023.09.07-17.42.55:826][131]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
