@@ -5,9 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/mirov/Documents/Unreal Projects/voodoo_forrtres/Content/StarterContent/Audio/Collapse01.uasset",
-				"C:/Users/mirov/Documents/Unreal Projects/voodoo_forrtres/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
-				"C:/Users/mirov/Documents/Unreal Projects/voodoo_forrtres/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset"
+				"C:/Users/julia/Documents/Unreal Projects/voodoo_forrtres/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
 	]
